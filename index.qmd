@@ -45,6 +45,7 @@ The main life evaluation question asked in the poll is the Cantril Life Ladder q
 > “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
 
 ::: pane-tabset
+::: pane-tabset
 ## 🔢 Table
 
 **Average self-reported life satisfaction** – Cantril Ladder score (0=worst; 10=best)
@@ -181,6 +182,7 @@ function filter_default() {
 window.onload = filter_default;
 </script>
 ```
+:::
 :::
 
 #  {.unlisted}
